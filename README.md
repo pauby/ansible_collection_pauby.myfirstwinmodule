@@ -1,3 +1,3 @@
-# Ansible Collection - pauby.psconfeu2022
+# Ansible Collection - pauby.myfirstwinmodule
 
 Documentation for the collection.
